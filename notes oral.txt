@@ -1,0 +1,9 @@
+9/10 portfolio il manque la doc feedly google alert flipboard
+5/10 questions
+qu'est ce qu'une API ?
+comment API ? = axios
+comment se connecter à base de données en PHP ? = mysqli et PDO
+POO = programmation orientée objet, classes méthodes attributs, fonction constructor
+encapsulation : privé public etc
+
+

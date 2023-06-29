@@ -179,3 +179,11 @@ nav ul li a:hover::after{
 .couleurGrise{
     color: #606163
 }
+
+.truc {
+    position: relative; /* permet de positionner l'image */
+    left: auto; /* ajuste la position horizontale de l'image */
+    top: -30px; /* ajuste la position verticale de l'image */
+    max-width: 20%;
+	height: auto;
+}
