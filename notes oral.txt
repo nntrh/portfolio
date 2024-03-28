@@ -11,4 +11,11 @@ encapsulation : priv� public etc
 
 - refaire la documentation GLPI avec nom prenom numero de page footer
 
-- doc api google book
+- 
+- doc stage 2A
+- 2e veille technologique
+- rendre responsive
+
+- finir doc utilisateur et technique AP3
+- faire "" AP4
+- doc de déploiement
